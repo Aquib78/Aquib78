@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md%20Aquib%20Hussain&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h2 align="center">🚀 Robotics Engineer | AI & Computer Vision Developer</h2>
+<h2 align="center">🚀 Robotics Engineer | AI & Autonomous Systems Developer</h2>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Robotics+Engineer;AI+%7C+Computer+Vision+Developer;Autonomous+Systems+Builder;Drone+and+Robot+Developer"/>
@@ -15,25 +15,20 @@
 🎓 **B.Tech in Robotics and Automation – REVA University**
 📍 Bangalore, India
 
-I build **AI powered robotics systems, autonomous vehicles, and computer vision applications**.
+🤖 Building projects combining **AI, Robotics, and Computer Vision**
 
-🔬 Currently exploring
+🧠 Currently exploring
 • Machine Learning
 • Computer Vision
 • Robotics Control Systems
-• Autonomous Navigation
 
 ---
 
 # 🧰 Tech Stack
 
-## 🐍 Main Programming Language
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-Main-blue?style=for-the-badge\&logo=python)
-
----
-
-## 💻 Other Programming (Basic)
 
 ![C](https://img.shields.io/badge/C-Basic-grey?style=for-the-badge\&logo=c)
 ![C++](https://img.shields.io/badge/C++-Basic-grey?style=for-the-badge\&logo=cplusplus)
@@ -84,31 +79,23 @@ I build **AI powered robotics systems, autonomous vehicles, and computer vision 
 
 ### 🧠 AI Ethics Model
 
-AI model that detects **bias and company policy compliance** using NLP and Naive Bayes with speech interaction.
-
----
+AI system that detects **bias and policy compliance** in company interviews using NLP and Naive Bayes with voice interaction.
 
 ### 🌊 River Cleaning Robot
 
-Autonomous floating robot designed to **collect waste from rivers** using conveyor mechanisms and motor control.
-
----
+Floating robot designed to **collect waste from rivers** using conveyor mechanisms.
 
 ### 🚁 Autonomous Disaster Response Drone
 
-AI-powered drone capable of **detecting stranded humans during floods and sending GPS coordinates to rescue dashboards.**
-
----
+AI-powered drone that **detects stranded humans and sends GPS coordinates to rescue dashboards**.
 
 ### 🤖 AI Object Detection Rover
 
-Raspberry Pi powered rover with **real-time object detection and IoT monitoring.**
-
----
+Raspberry Pi rover using **AI vision for object detection and IoT monitoring**.
 
 ### 🩺 X-ray Pneumonia Detection
 
-Deep learning model that analyzes **chest X-ray images to detect pneumonia using computer vision techniques.**
+Deep learning model that **detects pneumonia from chest X-ray images using computer vision techniques.**
 
 ---
 
@@ -132,20 +119,6 @@ Deep learning model that analyzes **chest X-ray images to detect pneumonia using
 
 ---
 
-# 🤝 Connect With Me
-
 <p align="center">
-
-<a href="mailto:hussainaquib230@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Aquib78">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-<p align="center">
-⭐ Building intelligent machines using AI and Robotics
+⭐ Building intelligent machines with AI and Robotics
 </p>
